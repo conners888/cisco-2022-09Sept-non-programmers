@@ -17014,3 +17014,8 @@ Updated files:
 [I 15:27:17.925 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
 [I 15:27:27.350 NotebookApp] Saving file at /Peter, Sept 19.ipynb
 [W 15:27:27.351 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+[main ba77959] gitautosync update 977
+ 4 files changed, 694 insertions(+), 47 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   588ac6b..ba77959  main -> main
+[I 15:27:30.921 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
