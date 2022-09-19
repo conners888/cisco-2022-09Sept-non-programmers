@@ -5726,3 +5726,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  2 files changed, 12 insertions(+), 5 deletions(-)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    25a881b..3bd9b88  main -> main
+[main 6538157] gitautosync update 352
+ 2 files changed, 4 insertions(+)
+ rename Clint.ipynb => Clint Python Intro Class.ipynb (100%)
+[I 13:35:29.919 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   3bd9b88..6538157  main -> main
