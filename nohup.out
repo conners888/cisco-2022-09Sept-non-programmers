@@ -4685,3 +4685,21 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [IPKernelApp] WARNING | No such comm: 8be5dd84-4ec9-4b64-a50c-38456f420ef6
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 5ab70383-7852-4ecc-98df-323355fee55e
+[main db9f275] gitautosync update 305
+ 3 files changed, 19 insertions(+)
+ rename Untitled3.ipynb => Eugene_Monday.ipynb (100%)
+ create mode 100644 Untitled5.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   7b2aae1..db9f275  main -> main
+[I 13:27:06.892 NotebookApp] Creating new notebook in 
+[I 13:27:08.780 NotebookApp] Creating new notebook in 
+[I 13:27:10.019 NotebookApp] Kernel started: 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b3f669d8-24e7-4b7c-8c41-a1db2d52a086
+[I 13:27:12.754 NotebookApp] Kernel started: 66845fa9-aa7f-4316-8a38-c8e30fd2a820, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 9e5f29e4-5001-4114-8600-be6bea71419d
+[I 13:27:14.139 NotebookApp] Creating new notebook in 
+[I 13:27:15.204 NotebookApp] Creating new notebook in 
+[I 13:27:16.162 NotebookApp] Malformed HTTP message from 173.38.117.84: Malformed HTTP request line
+[I 13:27:16.274 NotebookApp] Malformed HTTP message from 173.38.117.84: no colon in header line
