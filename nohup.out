@@ -38673,3 +38673,12 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    432de09..a0bcdac  main -> main
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+[main 885ea43] gitautosync update 393
+ 1 file changed, 6 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   a0bcdac..885ea43  main -> main
+[I 19:57:25.772 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[W 19:57:25.776 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[I 19:57:32.293 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
