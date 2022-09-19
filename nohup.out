@@ -47359,3 +47359,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 21:38:05.685 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    cc77644..6a8297c  main -> main
+[main c2dd5e4] gitautosync update 954
+ 2 files changed, 13 insertions(+), 7 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   6a8297c..c2dd5e4  main -> main
+[I 21:38:23.691 NotebookApp] Restoring connection for 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7:2be8de417ba84242b7a8256463b034c0
