@@ -36679,3 +36679,8 @@ Updated files:
 
 [I 19:36:05.392 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [W 19:36:05.393 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
+[main c6e429b] gitautosync update 275
+ 2 files changed, 353 insertions(+), 6 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   7fab232..c6e429b  main -> main
+[I 19:36:17.563 NotebookApp] Saving file at /Tareq Ali.ipynb
