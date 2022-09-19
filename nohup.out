@@ -7517,3 +7517,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    9c2e13d..55bafef  main -> main
 [I 13:52:00.310 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
 [I 13:52:02.515 NotebookApp] Saving file at /Kara S  09-19-2022.ipynb
+[main 576da26] gitautosync update 445
+ 3 files changed, 78 insertions(+), 19 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   55bafef..576da26  main -> main
