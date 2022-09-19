@@ -7996,3 +7996,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 13:58:00.990 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
 [I 13:58:02.451 NotebookApp] Saving file at /Kara S  09-19-2022.ipynb
 [I 13:58:03.281 NotebookApp] Starting buffering for ab1dcf67-88c4-4d3e-a932-9e606606a3b2:26feb27aa62147018cd4adebb709769f
+[main 5cc3baa] gitautosync update 479
+ 3 files changed, 63 insertions(+), 17 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   dff44a1..5cc3baa  main -> main
