@@ -19630,3 +19630,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    fb9f551..3f8da4d  main -> main
 [I 15:52:17.182 NotebookApp] Kernel interrupted: d9c0218d-5b1f-4529-ab39-05897b7f815e
 [IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[main 2265a61] gitautosync update 1116
+ 1 file changed, 6 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   3f8da4d..2265a61  main -> main
+[I 15:52:20.356 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
+[I 15:52:20.403 NotebookApp] Starting buffering for 64573db2-ef6b-4bfc-a0c3-87669e10c324:ed5d80e5300244b9b2f4e58abf169333
+[W 15:52:20.683 NotebookApp] Notebook Drew Forbes 9.19.22.ipynb is not trusted
+[I 15:52:22.317 NotebookApp] Kernel interrupted: 5f54252b-9bf5-4d08-b16f-f899be75bf8d
