@@ -34029,3 +34029,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    3481487..362bdd9  main -> main
 [I 19:11:25.765 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
 [W 19:11:25.767 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[main 59ae297] gitautosync update 138
+ 3 files changed, 28 insertions(+), 19 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   362bdd9..59ae297  main -> main
+[I 19:11:37.212 NotebookApp] Restoring connection for 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7:2be8de417ba84242b7a8256463b034c0
