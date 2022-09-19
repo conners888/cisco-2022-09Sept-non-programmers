@@ -7197,3 +7197,292 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 13:50:57.803 NotebookApp] 404 GET /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb?content=0&_=1663595381416 (128.107.241.172): file or directory does not exist: 'Adnan Monday, Sept 19.ipynb'
 [W 13:50:57.803 NotebookApp] file or directory does not exist: 'Adnan Monday, Sept 19.ipynb'
 [W 13:50:57.804 NotebookApp] 404 GET /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb?content=0&_=1663595381416 (128.107.241.172) 1.730000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
+[main 26b36b1] gitautosync update 439
+ 4 files changed, 50 insertions(+), 19 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   e5d784c..26b36b1  main -> main
+Update 420
+
+Updated files:
+
+    "Reuven - Monday, Sept. 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Reuven - Monday, Sept. 19.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 421
+
+Updated files:
+
+    "Adnan Monday, Sept 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Adnan Monday, Sept 19.ipynb"
+    "Katie Coker py 101.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Katie Coker py 101.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 422
+
+Updated files:
+
+    Chris9_19_2022.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Chris9_19_2022.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Chris9_19_2022.ipynb
+    "Drew Forbes 9.19.22.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Drew Forbes 9.19.22.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 423
+
+Updated files:
+
+    "Kara S  09-19-2022.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Kara S  09-19-2022.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 424
+
+Updated files:
+
+    "Tareq Ali.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Tareq Ali.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 425
+
+Updated files:
+
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 426
+
+Updated files:
+
+    "Armin Sep 19 2022.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Armin Sep 19 2022.ipynb"
+    Untitled.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Untitled.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Untitled.ipynb
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 427
+
+Updated files:
+
+    "Andy Mallio Python Sep 19 2022.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Andy Mallio Python Sep 19 2022.ipynb"
+    Payal_Sep192022.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Payal_Sep192022.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Payal_Sep192022.ipynb
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 428
+
+Updated files:
+
+    Katie_Conners_Sept_19_22.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Katie_Conners_Sept_19_22.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Katie_Conners_Sept_19_22.ipynb
+    "Peter, Sept 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Peter, Sept 19.ipynb"
+    Pratik_09_2022.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Pratik_09_2022.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Pratik_09_2022.ipynb
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 429
+
+Updated files:
+
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 430
+
+Updated files:
+
+    "Alan + 19-09-22.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Alan + 19-09-22.ipynb"
+    "Clint Python Intro Class.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Clint Python Intro Class.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 431
+
+Updated files:
+
+    "Adnan Monday, Sept 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Adnan Monday, Sept 19.ipynb"
+    "Reuven - Monday, Sept. 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Reuven - Monday, Sept. 19.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 432
+
+Updated files:
+
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 433
+
+Updated files:
+
+    Chris9_19_2022.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Chris9_19_2022.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Chris9_19_2022.ipynb
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 434
+
+Updated files:
+
+    "Kara S  09-19-2022.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Kara S  09-19-2022.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 435
+
+Updated files:
+
+    "Tareq Ali.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Tareq Ali.ipynb"
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 436
+
+Updated files:
+
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 437
+
+Updated files:
+
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+Update 438
+
+Updated files:
+
+    "Adnan Monday, Sept 19.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Adnan Monday, Sept 19.ipynb"
+    "Andy Mallio Python Sep 19 2022.ipynb"
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/"Andy Mallio Python Sep 19 2022.ipynb"
+    Untitled.ipynb
+        https://nbviewer.jupyter.org/github/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Untitled.ipynb?flush_cache=true
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/Untitled.ipynb
+    nohup.out
+        
+        https://github.com/git@github.com:reuven/cisco-2022-09Sept-non-programmers.git/blob/main/nohup.out
+
+
+---
+
+[I 13:51:05.144 NotebookApp] Creating new notebook in 
+[I 13:51:06.414 NotebookApp] Kernel started: e3a7b1e8-f320-4e2f-a285-a3c07c898fa5, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4bc9724d-10b1-47b3-a474-1906e125cd7b
