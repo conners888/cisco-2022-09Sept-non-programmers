@@ -9270,3 +9270,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    b9858b1..f99039a  main -> main
 [I 14:09:30.400 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
 [I 14:09:32.846 NotebookApp] Kernel interrupted: e3a7b1e8-f320-4e2f-a285-a3c07c898fa5
+[main 7a27fbf] gitautosync update 543
+ 2 files changed, 53 insertions(+), 39 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   f99039a..7a27fbf  main -> main
