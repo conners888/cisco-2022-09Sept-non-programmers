@@ -15403,3 +15403,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    5683a69..30939b9  main -> main
 [I 15:12:16.279 NotebookApp] Saving file at /Tareq Ali.ipynb
+[main 2999f97] gitautosync update 893
+ 2 files changed, 40 insertions(+), 9 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   30939b9..2999f97  main -> main
+[W 15:12:24.742 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 24249fc3-515b-4592-b5f3-d7bd5251568d
