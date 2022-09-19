@@ -9256,3 +9256,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:09:07.946 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
 [I 14:09:13.287 NotebookApp] Starting buffering for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
 [IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[main b9858b1] gitautosync update 541
+ 2 files changed, 16 insertions(+), 28 deletions(-)
+[I 14:09:15.933 NotebookApp] Kernel restarted: 9544ee70-dcb3-4aa9-919a-72312926c3eb
+[I 14:09:16.092 NotebookApp] Restoring connection for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   f1f3150..b9858b1  main -> main
+[I 14:09:16.854 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[I 14:09:17.084 NotebookApp] Replaying 8 buffered messages
