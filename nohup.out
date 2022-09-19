@@ -7486,3 +7486,13 @@ Updated files:
 [I 13:51:06.414 NotebookApp] Kernel started: e3a7b1e8-f320-4e2f-a285-a3c07c898fa5, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 4bc9724d-10b1-47b3-a474-1906e125cd7b
+[main 6babd37] gitautosync update 440
+ 2 files changed, 295 insertions(+)
+ create mode 100644 Untitled1.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   26b36b1..6babd37  main -> main
+[I 13:51:15.112 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
+[I 13:51:15.975 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
+[I 13:51:16.181 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
+[I 13:51:16.401 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
+[I 13:51:20.605 NotebookApp] Saving file at /Clint Python Intro Class.ipynb
