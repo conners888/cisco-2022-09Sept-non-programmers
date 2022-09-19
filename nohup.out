@@ -11441,3 +11441,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 14:28:34.620 NotebookApp] 405 CONNECT 185.65.245.140:7227 (103.161.16.107) 3.210000ms referer=None
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    7325065..87563fe  main -> main
+[main b40f7a6] gitautosync update 650
+ 1 file changed, 5 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   87563fe..b40f7a6  main -> main
+[I 14:28:51.529 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
