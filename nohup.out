@@ -20206,3 +20206,12 @@ Updated files:
       "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     }
 [E 15:56:59.149 NotebookApp] 500 PUT /api/contents/Robert%20McLean%2009/16/22.ipynb (104.178.35.254) 185.210000ms referer=http://python.lerner.co.il:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[main 7d63a02] gitautosync update 1143
+ 1 file changed, 427 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   8af8f35..7d63a02  main -> main
+[W 15:57:09.533 NotebookApp] 404 GET /api/contents/Robert%20McLean%2009-16-22.ipynb?type=notebook&content=0&_=1663594003260 (104.178.35.254): file or directory does not exist: 'Robert McLean 09-16-22.ipynb'
+[W 15:57:09.534 NotebookApp] file or directory does not exist: 'Robert McLean 09-16-22.ipynb'
+[W 15:57:09.534 NotebookApp] 404 GET /api/contents/Robert%20McLean%2009-16-22.ipynb?type=notebook&content=0&_=1663594003260 (104.178.35.254) 2.280000ms referer=http://python.lerner.co.il:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:57:09.625 NotebookApp] Uploading file to /Robert McLean 09-16-22.ipynb
+[I 15:57:10.155 NotebookApp] Saving file at /Katie Coker py 101.ipynb
