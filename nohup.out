@@ -7130,3 +7130,59 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    30ee87e..ce7ce0e  main -> main
+[main c050987] gitautosync update 437
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   ce7ce0e..c050987  main -> main
+[I 13:50:43.643 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:50:51.345 NotebookApp] Kernel shutdown: 66845fa9-aa7f-4316-8a38-c8e30fd2a820
+[W 13:50:51.348 NotebookApp] delete /Adnan Monday, Sept 19.ipynb
+[I 13:50:51.512 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e85a1362-6dc5-4c54-a00b-484d1119f6e8
+[IPKernelApp] WARNING | No such comm: 13f74cfc-6a0e-4f44-a15a-a66d4fbe263a
+[IPKernelApp] WARNING | No such comm: ff1abeff-b8a0-4b11-98d3-8f07fa7898ed
+[IPKernelApp] WARNING | No such comm: 1ddac109-18b9-4591-a6f8-d1fa938147f8
+[I 13:50:52.068 NotebookApp] Starting buffering for 66845fa9-aa7f-4316-8a38-c8e30fd2a820:4a4d9f7a306b46d99886daa60c3af305
+[I 13:50:52.071 NotebookApp] Kernel shutdown: 66845fa9-aa7f-4316-8a38-c8e30fd2a820
+[E 13:50:52.072 NotebookApp] Uncaught exception DELETE /api/sessions/3aabe41d-5f1c-4837-a9ff-6ee8ab7e1d95 (128.107.241.172)
+    HTTPServerRequest(protocol='http', host='python.lerner.co.il:8888', method='DELETE', uri='/api/sessions/3aabe41d-5f1c-4837-a9ff-6ee8ab7e1d95', version='HTTP/1.1', remote_ip='128.107.241.172')
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1713, in _execute
+        result = await result
+      File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 776, in run
+        yielded = self.gen.throw(*exc_info)  # type: ignore
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 782, in run
+        yielded = self.gen.send(value)
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/multikernelmanager.py", line 264, in _async_shutdown_kernel
+        if not km.ready.cancelled() and km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 13:50:52.078 NotebookApp] Unhandled error
+[E 13:50:52.079 NotebookApp] {
+      "Host": "python.lerner.co.il:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    }
+[E 13:50:52.079 NotebookApp] 500 DELETE /api/sessions/3aabe41d-5f1c-4837-a9ff-6ee8ab7e1d95 (128.107.241.172) 9.540000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
