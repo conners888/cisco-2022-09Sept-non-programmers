@@ -6682,3 +6682,13 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    a13021d..afc010c  main -> main
+[main ca9102c] gitautosync update 415
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   afc010c..ca9102c  main -> main
+[I 13:46:47.135 NotebookApp] Creating new notebook in 
+[I 13:46:50.783 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[I 13:46:50.855 NotebookApp] Starting buffering for 66845fa9-aa7f-4316-8a38-c8e30fd2a820:13236a9a4cb74a459bf51023881014c3
+[W 13:46:51.220 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[I 13:46:51.700 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
+[I 13:46:53.623 NotebookApp] Kernel started: 61d2bfb9-cb47-4bae-ae7e-093158d38be0, name: python3
