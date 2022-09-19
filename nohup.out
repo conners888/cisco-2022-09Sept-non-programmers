@@ -18565,3 +18565,9 @@ Updated files:
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    f700edf..897ff91  main -> main
 [W 15:41:13.885 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
+[main e891056] gitautosync update 1054
+ 1 file changed, 5 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   897ff91..e891056  main -> main
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7733445d-1fac-4347-be0b-92612a0ad25d
