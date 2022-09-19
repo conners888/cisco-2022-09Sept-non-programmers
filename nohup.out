@@ -4781,3 +4781,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  rename Untitled4.ipynb => Katie_Conners_Sept_19_22.ipynb (100%)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    d3c03f7..6d296bb  main -> main
+[main 3c29a60] gitautosync update 309
+ 2 files changed, 6 insertions(+)
+ rename Untitled6.ipynb => Adnan Monday, Sept 19.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   6d296bb..3c29a60  main -> main
+[I 13:27:49.732 NotebookApp] 302 GET / (173.38.117.82) 0.630000ms
+[I 13:27:51.069 NotebookApp] Saving file at /Chris9_19_2022.ipynb
+[I 13:27:57.000 NotebookApp] Saving file at /Katie Coker py 101.ipynb
