@@ -55628,3 +55628,76 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    37df9b8..840a8d4  main -> main
 [I 23:16:37.692 NotebookApp] Kernel interrupted: d9c0218d-5b1f-4529-ab39-05897b7f815e
+[main 092422c] gitautosync update 1501
+ 1 file changed, 5 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   840a8d4..092422c  main -> main
+[I 23:16:44.600 NotebookApp] Kernel restarted: d9c0218d-5b1f-4529-ab39-05897b7f815e
+[I 23:16:44.721 NotebookApp] Restoring connection for d9c0218d-5b1f-4529-ab39-05897b7f815e:680734e75dbc4a2f9245bcc907f7c696
+[I 23:16:45.600 NotebookApp] Replaying 3 buffered messages
+[E 23:16:46.399 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/manager.py", line 78, in wrapper
+        self._ready.set_result(None)
+    asyncio.exceptions.InvalidStateError: invalid state
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/kernels/handlers.py", line 89, in post
+        yield maybe_future(km.restart_kernel(kernel_id))
+      File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 769, in run
+        value = future.result()
+      File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/kernels/kernelmanager.py", line 314, in restart_kernel
+        await maybe_future(self.pinned_superclass.restart_kernel(self, kernel_id, now=now))
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/multikernelmanager.py", line 377, in _async_restart_kernel
+        out = await ensure_async(kernel.restart_kernel(now=now))
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/manager.py", line 535, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.10/dist-packages/nest_asyncio.py", line 89, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.10/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/usr/lib/python3.10/asyncio/tasks.py", line 232, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.10/dist-packages/jupyter_client/manager.py", line 81, in wrapper
+        self._ready.set_exception(e)
+    asyncio.exceptions.InvalidStateError: invalid state
+[E 23:16:46.402 NotebookApp] {
+      "Host": "python.lerner.co.il:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://python.lerner.co.il:8888/notebooks/Andy%20Mallio%20Python%20Sep%2019%202022.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    }
+[E 23:16:46.402 NotebookApp] 500 POST /api/kernels/d9c0218d-5b1f-4529-ab39-05897b7f815e/restart (173.38.117.72) 2619.640000ms referer=http://python.lerner.co.il:8888/notebooks/Andy%20Mallio%20Python%20Sep%2019%202022.ipynb
+[I 23:16:46.460 NotebookApp] Starting buffering for d9c0218d-5b1f-4529-ab39-05897b7f815e:680734e75dbc4a2f9245bcc907f7c696
+[I 23:16:46.464 NotebookApp] Kernel shutdown: d9c0218d-5b1f-4529-ab39-05897b7f815e
+[I 23:16:46.562 NotebookApp] Kernel started: 4bafe724-62d2-438c-a3e0-d5b4065d2b83, name: python3
