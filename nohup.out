@@ -36208,3 +36208,9 @@ Updated files:
 [I 19:31:21.253 NotebookApp] Saving file at /Katie Coker py 101.ipynb
 [I 19:31:28.303 NotebookApp] Saving file at /Payal_Sep192022.ipynb
 [W 19:31:28.304 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
+[main f4420b4] gitautosync update 249
+ 3 files changed, 704 insertions(+), 570 deletions(-)
+ rewrite Katie Coker py 101.ipynb (64%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   c2b80a0..f4420b4  main -> main
+[I 19:31:32.231 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
