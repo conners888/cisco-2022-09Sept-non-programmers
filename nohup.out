@@ -17487,3 +17487,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    9e7fc60..ab5e21c  main -> main
 [I 15:33:17.162 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
 [I 15:33:17.655 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
+[main 608192d] gitautosync update 1010
+ 3 files changed, 136 insertions(+), 53 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   ab5e21c..608192d  main -> main
+[I 15:33:27.337 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 15:33:27.338 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
