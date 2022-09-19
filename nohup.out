@@ -36271,3 +36271,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    8d886e3..5ab87bc  main -> main
 [I 19:33:28.776 NotebookApp] Replaying 18 buffered messages
 [I 19:33:32.199 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[main 3ca5f25] gitautosync update 261
+ 3 files changed, 297 insertions(+), 245 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   5ab87bc..3ca5f25  main -> main
