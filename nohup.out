@@ -38274,3 +38274,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 19:55:25.755 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
 [W 19:55:25.757 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
 [I 19:55:33.094 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[main dda9104] gitautosync update 383
+ 3 files changed, 272 insertions(+), 228 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   a5e8ff5..dda9104  main -> main
