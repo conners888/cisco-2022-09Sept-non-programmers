@@ -34927,3 +34927,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 19:21:27.663 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 4d767742-5fca-4f05-96f6-1aa708b47730
+[main 5a9ca4d] gitautosync update 194
+ 1 file changed, 8 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   edab200..5a9ca4d  main -> main
+[I 19:21:37.817 NotebookApp] Kernel interrupted: 61d2bfb9-cb47-4bae-ae7e-093158d38be0
