@@ -4956,3 +4956,9 @@ Updated files:
 [I 13:28:02.465 NotebookApp] Kernel started: 233aa545-9e01-4100-bdfa-ea81c8cba29a, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 5f6f9294-1e8a-4b78-acd2-9117267a194e
+[main 12a9efb] gitautosync update 311
+ 3 files changed, 223 insertions(+), 2 deletions(-)
+ create mode 100644 Untitled2.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   0e24a3a..12a9efb  main -> main
+[I 13:28:15.716 NotebookApp] Saving file at /Tareq Ali.ipynb
