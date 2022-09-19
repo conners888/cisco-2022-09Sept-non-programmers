@@ -11098,3 +11098,16 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:26:51.034 NotebookApp] Restoring connection for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
 [I 14:26:51.895 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [I 14:26:52.554 NotebookApp] Replaying 3 buffered messages
+[main 211cc2e] gitautosync update 640
+ 2 files changed, 24 insertions(+), 6 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   991df05..211cc2e  main -> main
+[W 14:26:58.055 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
+[I 14:26:58.326 NotebookApp] Saving file at /Pratik_09_2022.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0c216584-1e27-4e34-81e8-038cdc2a477f
+[I 14:27:01.616 NotebookApp] Starting buffering for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
+[I 14:27:02.053 NotebookApp] Kernel restarted: 9544ee70-dcb3-4aa9-919a-72312926c3eb
+[I 14:27:02.130 NotebookApp] Restoring connection for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
+[I 14:27:03.243 NotebookApp] Replaying 3 buffered messages
+[I 14:27:06.504 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
