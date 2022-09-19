@@ -17880,3 +17880,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    5b0491d..944bcfb  main -> main
 [I 15:36:43.741 NotebookApp] Saving file at /Untitled.ipynb
+[main 7751a9d] gitautosync update 1029
+ 2 files changed, 238 insertions(+), 23 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   944bcfb..7751a9d  main -> main
+[I 15:36:51.653 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
