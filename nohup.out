@@ -29597,3 +29597,13 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 17:43:09.483 NotebookApp] Restoring connection for 5f54252b-9bf5-4d08-b16f-f899be75bf8d:38b977cebdd34fdabe9156f84ce283ea
 [I 17:43:10.212 NotebookApp] Saving file at /Katie Coker py 101.ipynb
 [I 17:43:10.516 NotebookApp] Replaying 3 buffered messages
+[main 3df550e] gitautosync update 1735
+ 2 files changed, 32 insertions(+), 9 deletions(-)
+[I 17:43:18.933 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   06a85db..3df550e  main -> main
+[W 17:43:19.977 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
+[I 17:43:25.817 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[W 17:43:25.819 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[I 17:43:27.364 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 17:43:27.365 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
