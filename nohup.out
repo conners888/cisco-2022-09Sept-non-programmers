@@ -30454,3 +30454,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 17:50:21.145 NotebookApp] Notebook Drew Forbes 9.19.22.ipynb is not trusted
 [I 17:50:22.302 NotebookApp] Kernel interrupted: 242697f4-4994-4c9e-b1a8-295a1b0a0151
 [I 17:50:22.832 NotebookApp] Saving file at /Eugene_Monday.ipynb
+[main 900f1f5] gitautosync update 1775
+ 4 files changed, 494 insertions(+), 451 deletions(-)
+ rewrite Eugene_Monday.ipynb (78%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   3319ab8..900f1f5  main -> main
+[I 17:50:31.065 NotebookApp] Kernel interrupted: 242697f4-4994-4c9e-b1a8-295a1b0a0151
