@@ -30019,3 +30019,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 17:45:21.930 NotebookApp] 302 GET / (34.78.120.99) 1.180000ms
 [I 17:45:25.744 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
 [W 17:45:25.746 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[main 73f5d41] gitautosync update 1747
+ 3 files changed, 32 insertions(+), 18 deletions(-)
+[I 17:45:27.935 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 17:45:27.937 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   1b00287..73f5d41  main -> main
+[I 17:45:31.699 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[W 17:45:35.552 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
