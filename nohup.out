@@ -11111,3 +11111,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:27:02.130 NotebookApp] Restoring connection for 9544ee70-dcb3-4aa9-919a-72312926c3eb:fd636c4274c9493d9c0ad5eb84563656
 [I 14:27:03.243 NotebookApp] Replaying 3 buffered messages
 [I 14:27:06.504 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[main 5b11a2e] gitautosync update 641
+ 3 files changed, 328 insertions(+), 946 deletions(-)
+ rewrite Pratik_09_2022.ipynb (89%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   211cc2e..5b11a2e  main -> main
+[I 14:27:17.619 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
