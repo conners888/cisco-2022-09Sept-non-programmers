@@ -6213,3 +6213,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    30f8a0f..0cf05e3  main -> main
 [I 13:41:20.593 NotebookApp] Saving file at /Clint Python Intro Class.ipynb
 [I 13:41:22.544 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[main c243e2e] gitautosync update 385
+ 3 files changed, 52 insertions(+), 18 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   0cf05e3..c243e2e  main -> main
+[I 13:41:29.947 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
