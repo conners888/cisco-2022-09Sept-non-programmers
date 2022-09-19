@@ -21952,3 +21952,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    ede5cbd..5c75710  main -> main
 [I 16:16:21.164 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
 [W 16:16:21.165 NotebookApp] Notebook Drew Forbes 9.19.22.ipynb is not trusted
+[main be8dc3a] gitautosync update 1250
+ 2 files changed, 44 insertions(+), 9 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   5c75710..be8dc3a  main -> main
