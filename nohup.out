@@ -4703,3 +4703,21 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 13:27:15.204 NotebookApp] Creating new notebook in 
 [I 13:27:16.162 NotebookApp] Malformed HTTP message from 173.38.117.84: Malformed HTTP request line
 [I 13:27:16.274 NotebookApp] Malformed HTTP message from 173.38.117.84: no colon in header line
+[main a86cdbc] gitautosync update 306
+ 5 files changed, 42 insertions(+)
+ create mode 100644 Andy Mallio Sep 19.ipynb
+ create mode 100644 Untitled3.ipynb
+ create mode 100644 Untitled6.ipynb
+ create mode 100644 Untitled7.ipynb
+[I 13:27:16.632 NotebookApp] Kernel started: 54a91a10-06c6-4c50-bb7b-e2616d7123a4, name: python3
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   db9f275..a86cdbc  main -> main
+[I 13:27:17.497 NotebookApp] Kernel started: 52e2e99d-6ef2-48f7-b5f5-3497a48254d8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7d76d407-9773-4b43-9d8d-4bfbb1201644
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c081eab8-7e43-404a-b94a-cf23cd3f1724
+[W 13:27:19.305 NotebookApp] Replacing stale connection: 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7:2be8de417ba84242b7a8256463b034c0
+[I 13:27:19.752 NotebookApp] 302 GET / (173.38.117.84) 0.850000ms
+[I 13:27:24.307 NotebookApp] Starting buffering for 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7:2be8de417ba84242b7a8256463b034c0
+[I 13:27:24.310 NotebookApp] Restoring connection for 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7:2be8de417ba84242b7a8256463b034c0
