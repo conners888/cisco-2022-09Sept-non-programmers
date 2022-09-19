@@ -45154,3 +45154,9 @@ Updated files:
 
 ---
 
+[main e5138a3] gitautosync update 797
+ 1 file changed, 511 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   4637288..e5138a3  main -> main
+[I 21:10:05.471 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
+[W 21:10:05.472 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
