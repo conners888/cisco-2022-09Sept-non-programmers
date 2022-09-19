@@ -17038,3 +17038,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 15:28:03.438 NotebookApp] Kernel restarted: 54a91a10-06c6-4c50-bb7b-e2616d7123a4
 [I 15:28:03.634 NotebookApp] Restoring connection for 54a91a10-06c6-4c50-bb7b-e2616d7123a4:ba9d057791ee43c38d16498eabd0fdd2
 [I 15:28:04.524 NotebookApp] Replaying 3 buffered messages
+[main 5b6db14] gitautosync update 981
+ 4 files changed, 161 insertions(+), 82 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   4c2e6a4..5b6db14  main -> main
+[I 15:28:16.409 NotebookApp] Saving file at /Tareq Ali.ipynb
