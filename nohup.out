@@ -4996,3 +4996,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  rename Untitled7.ipynb => Armin Sep 19 2022.ipynb (100%)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    d456252..d12da4e  main -> main
+[main fa1f228] gitautosync update 314
+ 2 files changed, 5 insertions(+)
+ rename Untitled2.ipynb => Kara S  09-19-2022.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   d12da4e..fa1f228  main -> main
+[I 13:28:43.640 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:28:51.648 NotebookApp] Saving file at /Andy Mallio Sep 19.ipynb
+[I 13:28:52.524 NotebookApp] Creating new notebook in 
