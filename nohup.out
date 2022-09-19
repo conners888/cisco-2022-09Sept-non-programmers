@@ -4657,3 +4657,18 @@ Updated files:
 [I 13:26:41.420 NotebookApp] 302 GET / (72.163.2.252) 0.830000ms
 [I 13:26:41.885 NotebookApp] Creating new notebook in 
 [I 13:26:43.608 NotebookApp] Kernel started: b304ab6e-f18a-46ee-b6c0-e2f8646a2630, name: python3
+[main d3f44ed] gitautosync update 303
+ 2 files changed, 392 insertions(+)
+ create mode 100644 Untitled.ipynb
+[I 13:26:44.518 NotebookApp] 302 GET / (128.107.241.172) 1.710000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4a5eca35-bff2-4e8e-9fad-5c37c239c2f8
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   6b913ae..d3f44ed  main -> main
+[I 13:26:46.744 NotebookApp] 302 GET / (72.163.2.231) 0.740000ms
+[I 13:26:48.402 NotebookApp] 302 GET / (73.162.135.11) 0.680000ms
+[I 13:26:48.570 NotebookApp] Creating new notebook in 
+[I 13:26:51.444 NotebookApp] Kernel started: d9c0218d-5b1f-4529-ab39-05897b7f815e, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: c3dd17e9-ce63-4967-834e-504cca49dbf1
+[I 13:26:54.479 NotebookApp] Creating new notebook in 
