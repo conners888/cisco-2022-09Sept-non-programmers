@@ -29040,3 +29040,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    31ebef5..b14e49f  main -> main
 [I 17:38:43.924 NotebookApp] Saving file at /Robert McLean 09-16-22.ipynb
+[main 0e415b5] gitautosync update 1710
+ 2 files changed, 24 insertions(+), 17 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   b14e49f..0e415b5  main -> main
+[I 17:38:59.023 NotebookApp] Starting buffering for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:a2f6cb7ba3094db38e2824dff4c487f8
+[I 17:38:59.564 NotebookApp] Kernel restarted: 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13
+[I 17:38:59.683 NotebookApp] Restoring connection for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:a2f6cb7ba3094db38e2824dff4c487f8
