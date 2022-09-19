@@ -18274,3 +18274,16 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    40d26fb..e69a7ec  main -> main
 [I 15:40:40.426 NotebookApp] Kernel interrupted: 64573db2-ef6b-4bfc-a0c3-87669e10c324
 [IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[main 2746e03] gitautosync update 1051
+ 1 file changed, 6 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   e69a7ec..2746e03  main -> main
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[I 15:40:46.278 NotebookApp] Kernel restarted: ab1dcf67-88c4-4d3e-a932-9e606606a3b2
+[W 15:40:46.426 NotebookApp] Replacing stale connection: ab1dcf67-88c4-4d3e-a932-9e606606a3b2:26feb27aa62147018cd4adebb709769f
+[W 15:40:47.397 NotebookApp] zmq message arrived on closed channel
+[W 15:40:47.401 NotebookApp] zmq message arrived on closed channel
+[W 15:40:47.404 NotebookApp] zmq message arrived on closed channel
+[I 15:40:51.427 NotebookApp] Starting buffering for ab1dcf67-88c4-4d3e-a932-9e606606a3b2:26feb27aa62147018cd4adebb709769f
+[I 15:40:51.430 NotebookApp] Restoring connection for ab1dcf67-88c4-4d3e-a932-9e606606a3b2:26feb27aa62147018cd4adebb709769f
+[I 15:40:51.618 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
