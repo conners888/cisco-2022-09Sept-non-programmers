@@ -8765,3 +8765,11 @@ Updated files:
 [I 14:02:51.509 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [I 14:02:57.050 NotebookApp] Saving file at /Peter, Sept 19.ipynb
 [I 14:02:58.320 NotebookApp] Saving file at /Pratik_09_2022.ipynb
+[main 78f755d] gitautosync update 506
+ 4 files changed, 409 insertions(+), 31 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   d75b425..78f755d  main -> main
+[W 14:03:04.897 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
+[I 14:03:06.481 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d79b85d1-2f6e-413c-a648-21bd7484fa5a
