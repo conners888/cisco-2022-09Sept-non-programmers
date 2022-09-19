@@ -32956,3 +32956,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    c829efd..3cc4201  main -> main
 [I 19:00:05.339 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [W 19:00:05.340 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
+[main 0169794] gitautosync update 75
+ 2 files changed, 12 insertions(+), 240 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   3cc4201..0169794  main -> main
+[I 19:00:19.075 NotebookApp] Kernel interrupted: d9c0218d-5b1f-4529-ab39-05897b7f815e
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
