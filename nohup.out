@@ -1,0 +1,14 @@
+[I 12:31:02.519 NotebookApp] Writing notebook server cookie secret to /home/student/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 12:31:02.520 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+[W 12:31:03.008 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 12:31:03.022 NotebookApp] Serving notebooks from local directory: /home/student/notebooks
+[I 12:31:03.022 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 12:31:03.022 NotebookApp] http://cisco:8888/
+[I 12:31:03.022 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 12:31:08.766 NotebookApp] 302 GET / (62.219.230.142) 0.880000ms
+[I 12:31:10.176 NotebookApp] 302 GET / (107.178.200.234) 0.800000ms
+[I 12:31:25.410 NotebookApp] Creating new notebook in 
+[I 12:31:25.503 NotebookApp] Writing notebook-signing key to /home/student/.local/share/jupyter/notebook_secret
+[I 12:31:29.395 NotebookApp] Kernel started: b5a620e7-90fe-4db1-828e-acca0b842865, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d658e721-bfdc-465e-9d3d-a65bb9af9571
