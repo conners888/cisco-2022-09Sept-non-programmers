@@ -29526,3 +29526,14 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    d83f354..af206b1  main -> main
 [I 17:41:10.178 NotebookApp] Saving file at /Katie Coker py 101.ipynb
+[main 34a754d] gitautosync update 1724
+ 2 files changed, 18 insertions(+), 23 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   af206b1..34a754d  main -> main
+[I 17:41:24.809 NotebookApp] Starting buffering for e3a7b1e8-f320-4e2f-a285-a3c07c898fa5:d578c13092eb46ab89a5205592efe3a9
+[W 17:41:25.056 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: aa4960ce-790a-4691-b211-8b95e64ae8c5
+[I 17:41:27.372 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 17:41:27.374 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+[I 17:41:29.987 NotebookApp] Starting buffering for e3a7b1e8-f320-4e2f-a285-a3c07c898fa5:8ffb9739b15d4def86b5c97ca77ceb6e
