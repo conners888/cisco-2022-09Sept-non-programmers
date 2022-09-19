@@ -12,3 +12,9 @@
 [I 12:31:29.395 NotebookApp] Kernel started: b5a620e7-90fe-4db1-828e-acca0b842865, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: d658e721-bfdc-465e-9d3d-a65bb9af9571
+[main 5282452] gitautosync update 1
+ 2 files changed, 20 insertions(+)
+ create mode 100644 Untitled.ipynb
+ create mode 100644 nohup.out
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   ca9fe96..5282452  main -> main
