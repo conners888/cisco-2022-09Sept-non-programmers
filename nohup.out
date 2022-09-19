@@ -20276,3 +20276,12 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    8d233c6..62ac44b  main -> main
 [I 15:59:27.333 NotebookApp] Saving file at /Peter, Sept 19.ipynb
 [W 15:59:27.334 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+[main 1f1311f] gitautosync update 1156
+ 2 files changed, 24 insertions(+), 18 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   62ac44b..1f1311f  main -> main
+[I 15:59:31.062 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[I 15:59:36.065 NotebookApp] Starting buffering for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:a2f6cb7ba3094db38e2824dff4c487f8
+[I 15:59:36.600 NotebookApp] Kernel restarted: 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13
+[I 15:59:36.729 NotebookApp] Restoring connection for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:a2f6cb7ba3094db38e2824dff4c487f8
+[I 15:59:38.243 NotebookApp] Replaying 3 buffered messages
