@@ -5036,3 +5036,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  rename Untitled1.ipynb => Drew Forbes 9.20.22.ipynb (100%)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    3c1abfb..71ec958  main -> main
+[main f92e1e4] gitautosync update 320
+ 1 file changed, 5 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   71ec958..f92e1e4  main -> main
+[W 13:29:54.312 NotebookApp] WebSocket ping timeout after 119961 ms.
+[I 13:29:56.907 NotebookApp] Saving file at /Untitled2.ipynb
