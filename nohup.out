@@ -14791,3 +14791,13 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  2 files changed, 128 insertions(+), 24 deletions(-)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    43ad68f..a42e455  main -> main
+[main 8f5d482] gitautosync update 854
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   a42e455..8f5d482  main -> main
+[I 15:05:27.304 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 15:05:27.307 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+[W 15:05:28.354 NotebookApp] Replacing stale connection: 326e2e7b-02b6-42da-9315-5a7786cc3b72:2a3a4de6b96445f6884907d2111a2ef5
+[I 15:05:28.649 NotebookApp] Starting buffering for 326e2e7b-02b6-42da-9315-5a7786cc3b72:2a3a4de6b96445f6884907d2111a2ef5
+[I 15:05:28.651 NotebookApp] Restoring connection for 326e2e7b-02b6-42da-9315-5a7786cc3b72:2a3a4de6b96445f6884907d2111a2ef5
+[I 15:05:30.700 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
