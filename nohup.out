@@ -7496,3 +7496,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 13:51:16.181 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
 [I 13:51:16.401 NotebookApp] Kernel interrupted: 326e2e7b-02b6-42da-9315-5a7786cc3b72
 [I 13:51:20.605 NotebookApp] Saving file at /Clint Python Intro Class.ipynb
+[main 72833a9] gitautosync update 441
+ 3 files changed, 40 insertions(+), 5 deletions(-)
+ rename Untitled1.ipynb => Adnan Monday, Sept 19.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   6babd37..72833a9  main -> main
+[I 13:51:29.971 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
