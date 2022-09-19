@@ -8396,3 +8396,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:01:50.885 NotebookApp] Saving file at /Clint Python Intro Class.ipynb
 [I 14:01:50.928 NotebookApp] Starting buffering for 242697f4-4994-4c9e-b1a8-295a1b0a0151:8bda1888fa5542c58bce1d6a88317882
 [I 14:01:51.542 NotebookApp] Saving file at /Chris9_19_2022.ipynb
+[main 75bd052] gitautosync update 500
+ 3 files changed, 74 insertions(+), 13 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   3197c8f..75bd052  main -> main
+[I 14:02:00.320 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
+[W 14:02:01.742 NotebookApp] Notebook Clint Python Intro Class.ipynb is not trusted
