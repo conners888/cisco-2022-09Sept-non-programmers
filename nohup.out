@@ -11458,3 +11458,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:29:06.489 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    57f0f90..2b0d00a  main -> main
+[main 69518fa] gitautosync update 653
+ 2 files changed, 217 insertions(+), 498 deletions(-)
+ rewrite Adnan Monday, Sept 19.ipynb (85%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   2b0d00a..69518fa  main -> main
+[I 14:29:17.649 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
