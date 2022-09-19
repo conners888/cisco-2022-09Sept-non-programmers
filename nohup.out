@@ -11041,3 +11041,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 14:25:29.796 NotebookApp] Kernel restarted: e3a7b1e8-f320-4e2f-a285-a3c07c898fa5
 [I 14:25:30.046 NotebookApp] Restoring connection for e3a7b1e8-f320-4e2f-a285-a3c07c898fa5:d578c13092eb46ab89a5205592efe3a9
 [I 14:25:30.450 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[main 412e0dd] gitautosync update 632
+ 2 files changed, 72 insertions(+), 50 deletions(-)
+[I 14:25:31.059 NotebookApp] Replaying 3 buffered messages
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   43c11bb..412e0dd  main -> main
+[I 14:25:33.259 NotebookApp] Starting buffering for 61d2bfb9-cb47-4bae-ae7e-093158d38be0:b9814bc92d304ceebacc82254f38284d
+[W 14:25:34.866 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
