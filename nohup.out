@@ -4962,3 +4962,32 @@ Updated files:
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    0e24a3a..12a9efb  main -> main
 [I 13:28:15.716 NotebookApp] Saving file at /Tareq Ali.ipynb
+[main d456252] gitautosync update 312
+ 2 files changed, 53 insertions(+), 2 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   12a9efb..d456252  main -> main
+[I 13:28:22.184 NotebookApp] Saving file at /Eugene_Monday.ipynb
+[E 13:28:29.635 NotebookApp] Uncaught exception PATCH /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb (128.107.241.172)
+    HTTPServerRequest(protocol='http', host='python.lerner.co.il:8888', method='PATCH', uri='/api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb', version='HTTP/1.1', remote_ip='128.107.241.172')
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.10/dist-packages/tornado/web.py", line 1713, in _execute
+        result = await result
+      File "/usr/local/lib/python3.10/dist-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/contents/handlers.py", line 135, in patch
+        model = yield maybe_future(cm.update(model, path))
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/contents/manager.py", line 296, in update
+        self.rename(path, new_path)
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/contents/manager.py", line 284, in rename
+        self.rename_file(old_path, new_path)
+      File "/usr/local/lib/python3.10/dist-packages/notebook/services/contents/filemanager.py", line 579, in rename_file
+        raise web.HTTPError(400, f'Cannot rename file or directory {os_path!r}')
+    NameError: name 'os_path' is not defined
+[W 13:28:29.636 NotebookApp] Unhandled error
+[E 13:28:29.636 NotebookApp] {
+      "Host": "python.lerner.co.il:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
+    }
+[E 13:28:29.637 NotebookApp] 500 PATCH /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb (128.107.241.172) 2.830000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
