@@ -19141,3 +19141,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 15:49:31.015 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
 [I 15:49:34.864 NotebookApp] Kernel interrupted: 64573db2-ef6b-4bfc-a0c3-87669e10c324
 [IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[main f63f36a] gitautosync update 1101
+ 3 files changed, 419 insertions(+), 122 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   37e2d12..f63f36a  main -> main
