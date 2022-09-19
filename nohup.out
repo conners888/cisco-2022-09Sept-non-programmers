@@ -30011,3 +30011,11 @@ Updated files:
 ---
 
 [I 17:45:10.792 NotebookApp] Saving file at /Katie Coker py 101.ipynb
+[main 1b00287] gitautosync update 1746
+ 2 files changed, 377 insertions(+), 8 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   0ebe9bd..1b00287  main -> main
+[I 17:45:17.644 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[I 17:45:21.930 NotebookApp] 302 GET / (34.78.120.99) 1.180000ms
+[I 17:45:25.744 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
+[W 17:45:25.746 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
