@@ -18232,3 +18232,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    15bb177..f7cd111  main -> main
 [I 15:39:17.669 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
 [I 15:39:21.291 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[main 21c5b0e] gitautosync update 1044
+ 3 files changed, 89 insertions(+), 54 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   f7cd111..21c5b0e  main -> main
+[I 15:39:27.400 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 15:39:27.402 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
+[I 15:39:28.783 NotebookApp] Kernel interrupted: 242697f4-4994-4c9e-b1a8-295a1b0a0151
+[I 15:39:31.016 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
