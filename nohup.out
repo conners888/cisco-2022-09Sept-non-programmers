@@ -4775,3 +4775,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
     }
 [E 13:27:29.799 NotebookApp] 500 PATCH /api/contents/Untitled6.ipynb (128.107.241.172) 2.810000ms referer=http://python.lerner.co.il:8888/notebooks/Untitled6.ipynb?kernel_name=python3
 [I 13:27:29.898 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[main 6d296bb] gitautosync update 308
+ 4 files changed, 71 insertions(+), 7 deletions(-)
+ rename Untitled3.ipynb => Katie Coker py 101.ipynb (100%)
+ rename Untitled4.ipynb => Katie_Conners_Sept_19_22.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   d3c03f7..6d296bb  main -> main
