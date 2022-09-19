@@ -35826,3 +35826,13 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    7f49c4b..43ef5e7  main -> main
 [I 19:29:53.371 NotebookApp] Saving file at /Chris9_19_2022.ipynb
+[main ec61ae0] gitautosync update 241
+ 2 files changed, 55 insertions(+), 52 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   43ef5e7..ec61ae0  main -> main
+[I 19:30:05.318 NotebookApp] Starting buffering for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:22ff93f44780492e8eacd70f1ce695e0
+[I 19:30:05.384 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
+[W 19:30:05.386 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
+[I 19:30:06.056 NotebookApp] Kernel restarted: 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13
+[I 19:30:06.187 NotebookApp] Restoring connection for 78b754ba-29f5-4bf5-8a5b-5dc6c2884e13:22ff93f44780492e8eacd70f1ce695e0
+[I 19:30:07.102 NotebookApp] Replaying 3 buffered messages
