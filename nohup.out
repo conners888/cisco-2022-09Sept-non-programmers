@@ -34887,3 +34887,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 19:20:17.482 NotebookApp] Saving file at /Tareq Ali.ipynb
 [I 19:20:17.717 NotebookApp] Saving file at /Payal_Sep192022.ipynb
 [W 19:20:17.718 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
+[main b57f345] gitautosync update 187
+ 3 files changed, 39 insertions(+), 29 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   bbcdf83..b57f345  main -> main
