@@ -7892,3 +7892,9 @@ Updated files:
 [I 13:54:51.499 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [I 13:54:55.980 NotebookApp] Saving file at /Payal_Sep192022.ipynb
 [I 13:54:57.048 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[main 1e0816e] gitautosync update 461
+ 4 files changed, 371 insertions(+), 89 deletions(-)
+ rewrite Payal_Sep192022.ipynb (63%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   12d53f7..1e0816e  main -> main
+[I 13:55:06.481 NotebookApp] Saving file at /Adnan Monday, Sept 19.ipynb
