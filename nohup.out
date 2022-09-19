@@ -7107,3 +7107,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    d86b112..52fe6f5  main -> main
 [I 13:49:39.396 NotebookApp] 302 GET / (35.205.96.143) 0.980000ms
 [W 13:49:42.104 NotebookApp] Notebook Adnan Monday, Sept 19.ipynb is not trusted
+[main 2c3749c] gitautosync update 432
+ 1 file changed, 6 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   52fe6f5..2c3749c  main -> main
+[I 13:49:51.267 NotebookApp] Saving file at /Chris9_19_2022.ipynb
