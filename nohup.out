@@ -7074,3 +7074,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    dcf64c8..60cf37a  main -> main
 [I 13:48:51.497 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [I 13:48:53.672 NotebookApp] Saving file at /Payal_Sep192022.ipynb
+[main 3b00f79] gitautosync update 427
+ 3 files changed, 44 insertions(+), 5 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   60cf37a..3b00f79  main -> main
+[I 13:48:57.033 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[I 13:48:57.147 NotebookApp] Saving file at /Katie_Conners_Sept_19_22.ipynb
+[I 13:48:58.308 NotebookApp] Saving file at /Pratik_09_2022.ipynb
