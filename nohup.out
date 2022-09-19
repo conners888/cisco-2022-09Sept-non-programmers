@@ -7186,3 +7186,14 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
       "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     }
 [E 13:50:52.079 NotebookApp] 500 DELETE /api/sessions/3aabe41d-5f1c-4837-a9ff-6ee8ab7e1d95 (128.107.241.172) 9.540000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
+[main e5d784c] gitautosync update 438
+ 4 files changed, 83 insertions(+), 191 deletions(-)
+ delete mode 100644 Adnan Monday, Sept 19.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   c050987..e5d784c  main -> main
+[I 13:50:53.777 NotebookApp] Saving file at /Payal_Sep192022.ipynb
+[I 13:50:57.038 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[I 13:50:57.123 NotebookApp] Saving file at /Katie_Conners_Sept_19_22.ipynb
+[W 13:50:57.803 NotebookApp] 404 GET /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb?content=0&_=1663595381416 (128.107.241.172): file or directory does not exist: 'Adnan Monday, Sept 19.ipynb'
+[W 13:50:57.803 NotebookApp] file or directory does not exist: 'Adnan Monday, Sept 19.ipynb'
+[W 13:50:57.804 NotebookApp] 404 GET /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb?content=0&_=1663595381416 (128.107.241.172) 1.730000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
