@@ -4991,3 +4991,8 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
       "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36"
     }
 [E 13:28:29.637 NotebookApp] 500 PATCH /api/contents/Adnan%20Monday%2C%20Sept%2019.ipynb (128.107.241.172) 2.830000ms referer=http://python.lerner.co.il:8888/notebooks/Adnan%20Monday%2C%20Sept%2019.ipynb
+[main d12da4e] gitautosync update 313
+ 3 files changed, 76 insertions(+), 2 deletions(-)
+ rename Untitled7.ipynb => Armin Sep 19 2022.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   d456252..d12da4e  main -> main
