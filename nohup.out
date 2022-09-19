@@ -11048,3 +11048,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    43c11bb..412e0dd  main -> main
 [I 14:25:33.259 NotebookApp] Starting buffering for 61d2bfb9-cb47-4bae-ae7e-093158d38be0:b9814bc92d304ceebacc82254f38284d
 [W 14:25:34.866 NotebookApp] Notebook Payal_Sep192022.ipynb is not trusted
+[main 6005b32] gitautosync update 633
+ 1 file changed, 7 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   412e0dd..6005b32  main -> main
+[I 14:25:51.678 NotebookApp] Saving file at /Chris9_19_2022.ipynb
+[I 14:25:52.038 NotebookApp] Kernel interrupted: d9c0218d-5b1f-4529-ab39-05897b7f815e
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[I 14:25:52.142 NotebookApp] Kernel interrupted: 61d2bfb9-cb47-4bae-ae7e-093158d38be0
