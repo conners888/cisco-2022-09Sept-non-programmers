@@ -29499,3 +29499,8 @@ Updated files:
 
 [I 17:40:21.131 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
 [W 17:40:21.133 NotebookApp] Notebook Drew Forbes 9.19.22.ipynb is not trusted
+[main 48649e2] gitautosync update 1719
+ 2 files changed, 454 insertions(+), 16 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   a394161..48649e2  main -> main
+[W 17:40:29.801 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
