@@ -8402,3 +8402,13 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    3197c8f..75bd052  main -> main
 [I 14:02:00.320 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
 [W 14:02:01.742 NotebookApp] Notebook Clint Python Intro Class.ipynb is not trusted
+[main 8b4c29b] gitautosync update 501
+ 2 files changed, 120 insertions(+), 20 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   75bd052..8b4c29b  main -> main
+[I 14:02:09.045 NotebookApp] Kernel interrupted: 242697f4-4994-4c9e-b1a8-295a1b0a0151
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: fda578b7-9038-406d-83a6-66aa220ff989
+[IPKernelApp] WARNING | No such comm: 91761350-5333-4101-93b0-65444ec36224
+[I 14:02:13.425 NotebookApp] Kernel interrupted: 242697f4-4994-4c9e-b1a8-295a1b0a0151
