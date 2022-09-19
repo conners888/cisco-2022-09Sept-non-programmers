@@ -6702,3 +6702,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 13:46:58.300 NotebookApp] Saving file at /Pratik_09_2022.ipynb
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: a7bac068-0357-452f-8b84-1944c3ab013a
+[main 6fee845] gitautosync update 417
+ 4 files changed, 53 insertions(+), 22 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   1b8aa03..6fee845  main -> main
+[I 13:47:10.081 NotebookApp] Saving file at /Katie Coker py 101.ipynb
+[I 13:47:16.772 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[I 13:47:17.749 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
