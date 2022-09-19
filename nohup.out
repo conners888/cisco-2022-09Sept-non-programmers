@@ -20215,3 +20215,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 15:57:09.534 NotebookApp] 404 GET /api/contents/Robert%20McLean%2009-16-22.ipynb?type=notebook&content=0&_=1663594003260 (104.178.35.254) 2.280000ms referer=http://python.lerner.co.il:8888/notebooks/Untitled.ipynb?kernel_name=python3
 [I 15:57:09.625 NotebookApp] Uploading file to /Robert McLean 09-16-22.ipynb
 [I 15:57:10.155 NotebookApp] Saving file at /Katie Coker py 101.ipynb
+[main 2f93d08] gitautosync update 1144
+ 3 files changed, 1250 insertions(+), 13 deletions(-)
+ create mode 100644 Robert McLean 09-16-22.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   7d63a02..2f93d08  main -> main
+[I 15:57:27.360 NotebookApp] Saving file at /Peter, Sept 19.ipynb
+[W 15:57:27.362 NotebookApp] Notebook Peter, Sept 19.ipynb is not trusted
