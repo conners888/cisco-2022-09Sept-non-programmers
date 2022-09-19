@@ -19747,3 +19747,17 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    d106ce5..e00e61e  main -> main
+[main e8dafb4] gitautosync update 1137
+ 1 file changed, 4 insertions(+)
+[I 15:56:04.330 NotebookApp] Starting buffering for 64573db2-ef6b-4bfc-a0c3-87669e10c324:013bf482f7fa450688b7766d3034a56f
+[I 15:56:04.335 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[I 15:56:04.388 NotebookApp] Starting buffering for d9c0218d-5b1f-4529-ab39-05897b7f815e:ccca14e6e02e46d6a573e1d46e8386e0
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   e00e61e..e8dafb4  main -> main
+[W 15:56:04.797 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b2466a48-bc29-4f06-a9ba-bc1974808e1a
+[I 15:56:07.009 NotebookApp] Kernel restarted: 64573db2-ef6b-4bfc-a0c3-87669e10c324
+[I 15:56:07.117 NotebookApp] Restoring connection for 64573db2-ef6b-4bfc-a0c3-87669e10c324:013bf482f7fa450688b7766d3034a56f
+[I 15:56:07.981 NotebookApp] Replaying 9 buffered messages
