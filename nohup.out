@@ -30723,3 +30723,9 @@ Updated files:
 ---
 
 [I 17:51:10.206 NotebookApp] Saving file at /Katie Coker py 101.ipynb
+[main 654f9be] gitautosync update 1779
+ 2 files changed, 347 insertions(+), 102 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   604f8d6..654f9be  main -> main
+[I 17:51:17.680 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[I 17:51:17.769 NotebookApp] Saving file at /Armin Sep 19 2022.ipynb
