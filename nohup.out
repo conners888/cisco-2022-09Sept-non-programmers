@@ -14801,3 +14801,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 15:05:28.649 NotebookApp] Starting buffering for 326e2e7b-02b6-42da-9315-5a7786cc3b72:2a3a4de6b96445f6884907d2111a2ef5
 [I 15:05:28.651 NotebookApp] Restoring connection for 326e2e7b-02b6-42da-9315-5a7786cc3b72:2a3a4de6b96445f6884907d2111a2ef5
 [I 15:05:30.700 NotebookApp] Saving file at /Reuven - Monday, Sept. 19.ipynb
+[main 3f6daef] gitautosync update 855
+ 3 files changed, 168 insertions(+), 82 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   8f5d482..3f6daef  main -> main
