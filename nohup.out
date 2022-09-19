@@ -35390,3 +35390,10 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  2 files changed, 10 insertions(+), 5 deletions(-)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    f5e1e59..955ac4f  main -> main
+[main b093503] gitautosync update 220
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   955ac4f..b093503  main -> main
+[I 19:26:17.505 NotebookApp] Saving file at /Tareq Ali.ipynb
+[I 19:26:21.222 NotebookApp] Saving file at /Drew Forbes 9.19.22.ipynb
+[W 19:26:21.224 NotebookApp] Notebook Drew Forbes 9.19.22.ipynb is not trusted
