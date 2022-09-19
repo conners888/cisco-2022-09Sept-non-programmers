@@ -43174,3 +43174,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    82d4a07..1ebb501  main -> main
 [I 20:49:18.289 NotebookApp] Saving file at /Alan + 19-09-22.ipynb
+[main b5c8c06] gitautosync update 683
+ 2 files changed, 47 insertions(+), 36 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   1ebb501..b5c8c06  main -> main
+[W 20:49:38.558 NotebookApp] Replacing stale connection: 61d2bfb9-cb47-4bae-ae7e-093158d38be0:544a0023b1254e299dea0b7d70aaf59b
+[I 20:49:38.608 NotebookApp] Starting buffering for 61d2bfb9-cb47-4bae-ae7e-093158d38be0:544a0023b1254e299dea0b7d70aaf59b
+[I 20:49:38.610 NotebookApp] Restoring connection for 61d2bfb9-cb47-4bae-ae7e-093158d38be0:544a0023b1254e299dea0b7d70aaf59b
+[I 20:49:38.649 NotebookApp] Starting buffering for 61d2bfb9-cb47-4bae-ae7e-093158d38be0:544a0023b1254e299dea0b7d70aaf59b
