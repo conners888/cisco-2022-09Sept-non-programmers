@@ -102230,3 +102230,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 12:34:49.124 NotebookApp] Notebook Eugene_Tuesday.ipynb is not trusted
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 719be969-1808-48e1-8a0e-fc3c7d714219
+[main f53af8a] gitautosync update 669
+ 1 file changed, 7 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   bdd6088..f53af8a  main -> main
