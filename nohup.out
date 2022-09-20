@@ -102148,3 +102148,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 12:32:47.416 NotebookApp] Session not found: session_id='cc1fac9e-2035-458d-85ff-ff103d283d66'
 [W 12:32:47.416 NotebookApp] 404 DELETE /api/sessions/cc1fac9e-2035-458d-85ff-ff103d283d66 (72.163.2.231) 1.350000ms referer=http://python.lerner.co.il:8888/notebooks/Alan%20%2B%2019-09-22.ipynb
 [I 12:32:47.515 NotebookApp] Kernel started: d4f81898-fb76-46a2-944f-4017326195e2, name: python3
+[main 93fb0d4] gitautosync update 658
+ 1 file changed, 8 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   6cee4a1..93fb0d4  main -> main
