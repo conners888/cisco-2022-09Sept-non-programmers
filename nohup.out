@@ -92454,3 +92454,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
     }
 [E 06:28:49.098 NotebookApp] 500 DELETE /api/sessions/b9c1e931-bf15-4a2d-995d-96961f0cdc70 (173.38.117.84) 4.940000ms referer=http://python.lerner.co.il:8888/notebooks/Peter%2C%20Sept%2019.ipynb
+[main 78096c3] gitautosync update 3895
+ 1 file changed, 347 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   aeac2a3..78096c3  main -> main
