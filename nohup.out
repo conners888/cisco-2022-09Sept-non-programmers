@@ -102696,3 +102696,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    074785c..762bc8e  main -> main
 [I 12:36:05.130 NotebookApp] Saving file at /Tareq Ali.ipynb
 [W 12:36:05.131 NotebookApp] Notebook Tareq Ali.ipynb is not trusted
+[main acd8675] gitautosync update 676
+ 2 files changed, 29 insertions(+), 4 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   762bc8e..acd8675  main -> main
