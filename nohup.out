@@ -101437,3 +101437,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 12:25:31.243 NotebookApp] Kernel started: 30851787-9e73-489a-bccc-45c5b2965e91, name: python3
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    8993358..926549c  main -> main
+[main 4f047ff] gitautosync update 618
+ 1 file changed, 8 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   926549c..4f047ff  main -> main
+[I 12:25:51.535 NotebookApp] Starting buffering for 30851787-9e73-489a-bccc-45c5b2965e91:55590293a1e3412485d9b769d4451620
+[W 12:25:52.083 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
