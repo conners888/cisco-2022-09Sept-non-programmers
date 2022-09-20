@@ -102186,3 +102186,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 12:33:48.145 NotebookApp] Kernel started: 9e09911c-60c7-4abd-9610-f059fd01d6ac, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 14c18c02-611e-4c31-a99d-a0b30167a90c
+[main 10296fd] gitautosync update 663
+ 2 files changed, 15 insertions(+)
+ create mode 100644 Untitled1.ipynb
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   bbc92ec..10296fd  main -> main
+[I 12:33:56.825 NotebookApp] Saving file at /Tareq Ali.ipynb
