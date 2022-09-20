@@ -102177,3 +102177,12 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [W 12:33:34.339 NotebookApp] 404 POST /api/kernels/61b420ea-a239-42ae-8f9b-b7d2ac89a1c7/interrupt (35.142.182.97): Kernel does not exist: 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7
 [W 12:33:34.339 NotebookApp] Kernel does not exist: 61b420ea-a239-42ae-8f9b-b7d2ac89a1c7
 [W 12:33:34.339 NotebookApp] 404 POST /api/kernels/61b420ea-a239-42ae-8f9b-b7d2ac89a1c7/interrupt (35.142.182.97) 1.420000ms referer=http://python.lerner.co.il:8888/notebooks/Tareq%20Ali.ipynb
+[main bbc92ec] gitautosync update 662
+ 2 files changed, 8 insertions(+)
+ rename Untitled1.ipynb => Reuven - Monday, Sept. 20.ipynb (100%)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   7ee4473..bbc92ec  main -> main
+[I 12:33:46.771 NotebookApp] Creating new notebook in 
+[I 12:33:48.145 NotebookApp] Kernel started: 9e09911c-60c7-4abd-9610-f059fd01d6ac, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 14c18c02-611e-4c31-a99d-a0b30167a90c
