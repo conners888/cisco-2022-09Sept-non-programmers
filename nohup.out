@@ -101420,3 +101420,12 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    99f43fe..29cc2b1  main -> main
+[main 8993358] gitautosync update 616
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   29cc2b1..8993358  main -> main
+[I 12:25:20.966 NotebookApp] 302 GET / (62.219.230.142) 0.680000ms
+[W 12:25:26.477 NotebookApp] 404 DELETE /api/sessions/b9c1e931-bf15-4a2d-995d-96961f0cdc70 (173.38.117.84): Session not found: session_id='b9c1e931-bf15-4a2d-995d-96961f0cdc70'
+[W 12:25:26.478 NotebookApp] Session not found: session_id='b9c1e931-bf15-4a2d-995d-96961f0cdc70'
+[W 12:25:26.478 NotebookApp] 404 DELETE /api/sessions/b9c1e931-bf15-4a2d-995d-96961f0cdc70 (173.38.117.84) 2.210000ms referer=http://python.lerner.co.il:8888/notebooks/Peter%2C%20Sept%2019.ipynb
+[I 12:25:26.579 NotebookApp] Kernel started: 89949be6-8fb2-4b90-b9e8-f23288e600cf, name: python3
