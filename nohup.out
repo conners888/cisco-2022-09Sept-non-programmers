@@ -102217,3 +102217,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 12:34:30.466 NotebookApp] Kernel started: 2c4a1685-c91a-4d02-8fe5-4fb6871d94b3, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: cbf103a8-cb40-4338-be28-aaec0b3f77d3
+[main ed35feb] gitautosync update 667
+ 1 file changed, 9 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   cfcbde5..ed35feb  main -> main
+[I 12:34:39.736 NotebookApp] Starting buffering for 9e09911c-60c7-4abd-9610-f059fd01d6ac:e637ae16abe047128e82f86b863cd975
+[I 12:34:42.788 NotebookApp] Starting buffering for 2c4a1685-c91a-4d02-8fe5-4fb6871d94b3:806922aa34ae41f19f0d2f82bb770ade
