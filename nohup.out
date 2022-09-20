@@ -92482,3 +92482,16 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
  1 file changed, 4 insertions(+)
 To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    200a26e..8c96e1a  main -> main
+[main 9bd1a73] gitautosync update 3902
+ 1 file changed, 4 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   8c96e1a..9bd1a73  main -> main
+[C 06:30:11.059 NotebookApp] received signal 15, stopping
+[I 06:30:11.061 NotebookApp] Shutting down 0 kernels
+[I 06:30:11.062 NotebookApp] Shutting down 0 terminals
+[I 10:33:45.157 NotebookApp] Authentication of /metrics is OFF, since other authentication is disabled.
+[W 10:33:45.515 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 10:33:45.521 NotebookApp] Serving notebooks from local directory: /home/student/notebooks
+[I 10:33:45.521 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 10:33:45.521 NotebookApp] http://cisco:8888/
+[I 10:33:45.521 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
