@@ -101443,3 +101443,9 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    926549c..4f047ff  main -> main
 [I 12:25:51.535 NotebookApp] Starting buffering for 30851787-9e73-489a-bccc-45c5b2965e91:55590293a1e3412485d9b769d4451620
 [W 12:25:52.083 NotebookApp] Notebook Reuven - Monday, Sept. 19.ipynb is not trusted
+[main b55d9da] gitautosync update 619
+ 1 file changed, 6 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   4f047ff..b55d9da  main -> main
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0a7cc7d2-31db-496c-8332-724eafdffb1e
