@@ -102200,3 +102200,11 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
 [I 12:34:04.991 NotebookApp] Kernel started: 2e492b85-fec6-4d59-94c8-c541efb57c99, name: python3
 [IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
 [IPKernelApp] WARNING | No such comm: 0fca36b4-d7bb-40a2-8cb4-6edf2a00ee04
+[main 0306efc] gitautosync update 665
+ 1 file changed, 8 insertions(+)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   8cce35a..0306efc  main -> main
+[W 12:34:22.241 NotebookApp] 404 GET /api/contents/Eugene_Tuesday.ipynb?type=notebook&content=0&_=1663677227663 (75.45.45.187): file or directory does not exist: 'Eugene_Tuesday.ipynb'
+[W 12:34:22.241 NotebookApp] file or directory does not exist: 'Eugene_Tuesday.ipynb'
+[W 12:34:22.242 NotebookApp] 404 GET /api/contents/Eugene_Tuesday.ipynb?type=notebook&content=0&_=1663677227663 (75.45.45.187) 1.360000ms referer=http://python.lerner.co.il:8888/notebooks/Untitled1.ipynb?kernel_name=python3
+[I 12:34:22.399 NotebookApp] Uploading file to /Eugene_Tuesday.ipynb
