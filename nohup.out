@@ -72434,3 +72434,7 @@ To github.com:reuven/cisco-2022-09Sept-non-programmers.git
    c9a8ca3..7610259  main -> main
 [I 02:34:34.872 NotebookApp] Saving file at /Andy Mallio Python Sep 19 2022.ipynb
 [W 02:34:34.875 NotebookApp] Notebook Andy Mallio Python Sep 19 2022.ipynb is not trusted
+[main d15124a] gitautosync update 2600
+ 2 files changed, 57 insertions(+), 63 deletions(-)
+To github.com:reuven/cisco-2022-09Sept-non-programmers.git
+   7610259..d15124a  main -> main
